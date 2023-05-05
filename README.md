@@ -9,7 +9,7 @@ Showcasing innovative projects and solutions.
 - 💬 Ask me about **django, machine learning**
 - 📫 How to reach me: **arushijain167@gmail.com**
 - 📜 My Certificates & Resume: [Certificates](https://github.com/arushi167/Certificates)
-- ⚡ Fun fact: People call me **Montu Jain** & I ❤️ **Melody**
+- ⚡ Fav: I ❤️ **Melody**
 
 ---
 <details open>
