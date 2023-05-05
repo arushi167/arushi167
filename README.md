@@ -27,7 +27,7 @@ Showcasing innovative projects and solutions.
 
 ---
 
-<h3 align="left">Languages and Tools:</h3>
+<h3 align="left">💻 Languages and Tools:</h3>
 
 - Programming Languages: 
 
