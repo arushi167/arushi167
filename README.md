@@ -6,6 +6,8 @@ A versatile developer proficient in `Full Stack Web Development` & `Machine Lear
 - 🏆 `Amazon ML Summer School` - [Apprenticeship Certificate](https://github.com/arushi167/Certificates) (Duration: Septemper 2023 - October 2023)
 - 🏅 `Secretary` at [ACM Tech Society GGSIPU](https://usict.acm.org/team.php) 
 - 🏅 `Placement Coordinator` at `Guru Gobind Singh Indraprastha University` (GGSIPU EDC) College
+- 👨🏽‍💻 Pursing B.E Degree (Data Science) from `IIT (Indian Institute of Technology) Madras`
+- 👨🏽‍💻 Final Year B.Tech (`Artificial Intelligence & Machine Learning`) Student at `GGSIPU` 
 - 👨🏽‍💻 Global [Quine](https://quira.sh/user/arushi167) DevRank `Top 40%`
 - 👨🏽‍💻 Total DSA Questions [![](https://img.shields.io/badge/dynamic/json?style=plastic&labelColor=black&color=%23ffa116&label=Solved&query=solvedOverTotal&url=https%3A%2F%2Fleetcode-badge.vercel.app%2Fapi%2Fusers%2Farushijain167&logo=leetcode&logoColor=yellow)](https://leetcode.com/arushijain167/) on [Leetcode](https://leetcode.com/arushijain167)
 - 💻 Linkedin Profile: [Linkedin](https://www.linkedin.com/in/arushijain167/)
