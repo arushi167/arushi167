@@ -48,11 +48,9 @@ A versatile developer proficient in `Full Stack Web Development` & `Machine Lear
 ---
 
 <details open>
- <summary><b>GitHub & Leetcode Stats</b> </summary>
+ <summary><b>Leetcode Stats</b> </summary>
 <br>
 <p align = "center">
-  <img src = "https://github-readme-stats.vercel.app/api?username=arushi167&show_icons=true&line_height=33">
-  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=arushi167&hide=css,shell">
   <img src = "https://leetcard.jacoblin.cool/arushijain167?site=us">
 </p>
 </details>
